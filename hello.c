@@ -8,5 +8,7 @@ void main(void)
 	}else{
 		j++;
 	}
+	int a = 3;
+	int b = 4;
 	printf("hello git !");
 }
